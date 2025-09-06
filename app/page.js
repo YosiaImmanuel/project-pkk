@@ -3,10 +3,6 @@ import Image from "next/image";
 export default function Home() {
   const links = [
     { name: "Instagram", url: "https://www.instagram.com/urbanvoid88?igsh=YnBkNGg5MTJwOWI0", icon: "/icons/instagram.png" },
-    { name: "Shopee", url: "https://shopee.co.id", icon: "/icons/shopee.png" },
-    { name: "Tiktok", url: "https://tiktok.com", icon: "/icons/tiktok.png" },
-    { name: "Tokopedia", url: "https://tokopedia.com", icon: "/icons/tokopedia.png" },
-    { name: "Lazada", url: "https://lazada.com", icon: "/icons/lazada.png" },
     { name: "Whatsapp Admin", url: "https://wa.me/62895340992045", icon: "/icons/whatsapp.png" },
   ];
 
